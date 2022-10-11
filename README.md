@@ -1,1 +1,1 @@
-# Wasserstein-based-Model-Fusion-And-Linear-Mode-Connectivity-of-Neural-Networks
+# Wasserstein-Barycenter-based-Model-Fusion-And-Linear-Mode-Connectivity-of-Neural-Networks
