@@ -1,1 +1,1 @@
-# Wasserstein-Barycenter-based-Model-Fusion-And-Linear-Mode-Connectivity-of-Neural-Networks
+# WB/GWB Model Fusion and LMC of NNs
